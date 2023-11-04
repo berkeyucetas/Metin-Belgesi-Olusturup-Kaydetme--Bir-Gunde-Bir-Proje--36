@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\bin\Debug\Metin Belgesi Oluşturup Kaydetme.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\bin\Debug\Metin Belgesi Oluşturup Kaydetme.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\bin\Debug\Metin Belgesi Oluşturup Kaydetme.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\obj\Debug\Metin Belgesi Oluşturup Kaydetme.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\obj\Debug\Metin_Belgesi_Oluşturup_Kaydetme.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\obj\Debug\Metin_Belgesi_Oluşturup_Kaydetme.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\obj\Debug\Metin Belgesi Oluşturup Kaydetme.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\obj\Debug\Metin Belgesi Oluşturup Kaydetme.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\obj\Debug\Metin Belgesi Oluşturup Kaydetme.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Metin Belgesi Oluşturup Kaydetme\Metin Belgesi Oluşturup Kaydetme\obj\Debug\Metin Belgesi Oluşturup Kaydetme.pdb
